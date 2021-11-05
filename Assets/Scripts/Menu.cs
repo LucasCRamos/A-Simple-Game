@@ -20,7 +20,6 @@ public class Menu : MonoBehaviour
     public void Play(){
 
         SceneManager.LoadScene("SampleScene");
-    Debug.Log("oi");
     }
 
     public void VerRanking(){
